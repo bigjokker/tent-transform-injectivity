@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Injectivity of an Exponential Tent Transform"
+abstract: >-
+  Proofs and reproducible numerical checks for the uniqueness of the inverse
+  problem for the exponential tent transform T(g)(x) = integral over t > 0 of
+  exp(-integral_0^t integral_{x-tau}^{x+tau} g), the mean transformation time in
+  the one-dimensional Kolmogorov-Johnson-Mehl-Avrami model. Equal transforms of
+  two nonnegative locally integrable densities force equality whenever their
+  difference has uniformly bounded mass on unit intervals; in particular the
+  transform is injective on nonnegative L^p densities for every 1 <= p <= infinity,
+  including infinite-mass L^2 densities. The release also includes an exact
+  second-order identity, local information read from the transform, a
+  controlled-tail injectivity theorem, and periodic local inversion, stability,
+  regularity and reconstruction results. No closed-form inverse or
+  literature-priority claim is made.
+authors:
+  - name: "bigjokker"
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-10-04"
+repository-code: "https://github.com/bigjokker/tent-transform-injectivity"
+keywords:
+  - "inverse problems"
+  - "injectivity"
+  - "integral transforms"
+  - "Kolmogorov-Johnson-Mehl-Avrami"
+  - "nucleation and growth"
+  - "nonlocal operators"

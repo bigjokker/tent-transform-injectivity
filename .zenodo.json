@@ -1,0 +1,23 @@
+{
+  "title": "Injectivity of an Exponential Tent Transform",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "bigjokker"
+    }
+  ],
+  "license": "mit",
+  "version": "1.0.0",
+  "language": "eng",
+  "description": "<p>Proofs and reproducible numerical checks for the uniqueness of the inverse problem for the exponential tent transform, the mean transformation time in the one-dimensional Kolmogorov&ndash;Johnson&ndash;Mehl&ndash;Avrami model.</p><p>Equal transforms of two nonnegative locally integrable densities force equality whenever their difference has uniformly bounded mass on unit intervals. In particular the transform is injective on nonnegative L<sup>p</sup> densities for every 1 &le; p &le; &infin;, including infinite-mass L<sup>2</sup> densities, with no smoothness or decay assumption.</p><p>The release also includes an exact second-order identity, information about the density read directly from the transform, a controlled-tail injectivity theorem, and periodic local inversion, stability, regularity and reconstruction results. No closed-form inverse or literature-priority claim is made.</p><p>The results were developed with AI assistance and checked by an independent AI-assisted review. They have not been peer reviewed or formally verified.</p>",
+  "keywords": [
+    "inverse problems",
+    "injectivity",
+    "integral transforms",
+    "Kolmogorov-Johnson-Mehl-Avrami",
+    "nucleation and growth",
+    "nonlocal operators"
+  ],
+  "notes": "Source, manuscript and checks: https://github.com/bigjokker/tent-transform-injectivity"
+}
