@@ -1,5 +1,7 @@
 # Injectivity of an Exponential Tent Transform
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23138548.svg)](https://zenodo.org/doi/10.5281/zenodo.23138548)
+
 Proofs and reproducible numerical checks for the uniqueness of the inverse problem for
 
 $$
@@ -72,11 +74,18 @@ have not been peer reviewed or formally verified.
 
 ## Citation
 
+Archived on Zenodo. Cite the concept DOI to refer to the work in general, or
+the version DOI to pin a specific release.
+
+* All versions: [10.5281/zenodo.23138548](https://zenodo.org/doi/10.5281/zenodo.23138548)
+* v1.0.0: [10.5281/zenodo.23138549](https://zenodo.org/doi/10.5281/zenodo.23138549)
+
 ```bibtex
 @misc{tent_transform_injectivity,
   title  = {Injectivity of an Exponential Tent Transform},
   author = {bigjokker},
   year   = {2026},
+  doi    = {10.5281/zenodo.23138548},
   url    = {https://github.com/bigjokker/tent-transform-injectivity}
 }
 ```

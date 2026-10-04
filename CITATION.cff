@@ -21,6 +21,14 @@ license: MIT
 version: 1.0.0
 date-released: "2026-10-04"
 repository-code: "https://github.com/bigjokker/tent-transform-injectivity"
+doi: 10.5281/zenodo.23138548
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23138548
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23138549
+    description: "Version 1.0.0"
 keywords:
   - "inverse problems"
   - "injectivity"
